@@ -28,7 +28,7 @@ const handleVisitedFlag = (flag) =>{
 
     return (
         <div>
-            <h1>My Visited Countries: {countries.length}</h1>
+            <h1>You, me and baby Visited Countries: {countries.length}</h1>
             <h3>Total Country Visited: {visitedCountries.length}</h3>
 
             <ol>
